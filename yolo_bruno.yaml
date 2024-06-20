@@ -1,0 +1,9 @@
+names:
+- car1
+- car2
+- car3
+- car4
+- car5
+nc: 5
+train: /content/drive/MyDrive/BRUNO/dataset/train
+val: /content/drive/MyDrive/BRUNO/dataset/validation
