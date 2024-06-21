@@ -2,7 +2,9 @@
 Projeto idealizado para monitoramento e reconhecimento de veículos em imagens de visão de superior.
 
 
+# Dataset de teste
 
+os arquivos zipados dji.zip, dji2.zip e crop.rar são as imagens para teste.
 
 
 
